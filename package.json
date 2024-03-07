@@ -16,7 +16,7 @@
     "eslint": "^8.51.0",
     "eslint-plugin-only-warn": "^1.1.0",
     "nuxt": "^3.8.2",
-    "typescript": "^5.2.2",
+    "typescript": "^5.4.2",
     "vue-tsc": "^1.8.25"
   }
 }
