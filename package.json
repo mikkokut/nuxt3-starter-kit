@@ -1,6 +1,7 @@
 {
-  "type": "module",
+  "name": "nuxt3-starter-kit",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -10,13 +11,15 @@
     "lint": "eslint --max-warnings=0 .",
     "lint:fix": "eslint --max-warnings=0 --fix ."
   },
-  "devDependencies": {
+  "dependencies": {
     "@antfu/eslint-config": "^2.4.6",
     "@types/node": "^20.11.25",
     "eslint": "^8.51.0",
     "eslint-plugin-only-warn": "^1.1.0",
-    "nuxt": "^3.8.2",
     "typescript": "^5.4.2",
-    "vue-tsc": "^1.8.25"
+    "vue-tsc": "^1.8.25",
+    "nuxt": "^3.10.3",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
   }
 }
