@@ -12,7 +12,7 @@
     "lint:fix": "eslint --max-warnings=0 --fix ."
   },
   "dependencies": {
-    "@antfu/eslint-config": "^2.8.0",
+    "@antfu/eslint-config": "^2.8.1",
     "@types/node": "^20.11.25",
     "eslint": "^8.57.0",
     "eslint-plugin-only-warn": "^1.1.0",
